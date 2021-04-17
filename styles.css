@@ -17,12 +17,15 @@ a {
 
 button {
 	cursor: pointer;
+	border: none;
 }
 
 .dash2,
 .hamburger {
 	display: none;
 }
+
+/*navbar*/
 
 .navbar {
 	width: 100%;
@@ -89,6 +92,8 @@ button {
 	top: -10px;
 	font-size: 13px;
 }
+
+/*Heading Section*/
 
 .banner {
 	width: 100%;
@@ -191,6 +196,8 @@ button {
 	line-height: 20px;
 }
 
+/*Help Section both*/
+
 .section-1,
 .section-3 {
 	width: 100%;
@@ -246,6 +253,8 @@ button {
 	line-height: 24px;
 	letter-spacing: 0.8px;
 }
+
+/*Product Section*/
 
 .section-2 {
 	width: 100%;
@@ -575,6 +584,8 @@ button {
 	justify-content: center;
 	align-items: center;
 }
+
+/*End Section*/
 
 .section-4 {
 	width: 100%;
@@ -1082,6 +1093,7 @@ button {
 
 	.work-data {
 		width: 80%;
+		height: 500px;
 		text-align: start;
 		margin: 0 auto;
 		height: auto;
