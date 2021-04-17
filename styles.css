@@ -19,13 +19,6 @@ button {
 	cursor: pointer;
 }
 
-.p,
-ul,
-h2,
-button {
-	font-family: 'Lato', sans-serif;
-}
-
 .dash2,
 .hamburger {
 	display: none;
@@ -57,6 +50,7 @@ button {
 	font-style: normal;
 	font-size: 16px;
 	line-height: 20px;
+	font-family: 'Lato', sans-serif;
 }
 
 .nav-container ul li {
@@ -126,6 +120,7 @@ button {
 	font-size: 18px;
 	font-weight: 600;
 	font-style: normal;
+	font-family: 'Lato', sans-serif;
 	line-height: 28px;
 	letter-spacing: normal;
 }
@@ -133,6 +128,7 @@ button {
 .heading h2 {
 	height: 32px;
 	margin: 35px auto auto auto;
+	font-family: 'Lato', sans-serif;
 }
 
 .concerns {
@@ -186,6 +182,7 @@ button {
 	height: 20px;
 	left: 44px;
 	top: 67px;
+	font-family: 'Lato', sans-serif;
 	color: white;
 	z-index: 200;
 	font-style: normal;
@@ -198,6 +195,7 @@ button {
 .section-3 {
 	width: 100%;
 	height: 231px;
+
 	background-color: #f6f6f6;
 }
 
@@ -226,6 +224,7 @@ button {
 .section-3 p {
 	width: 669px;
 	height: 28px;
+	font-family: 'Lato', sans-serif;
 	font-style: normal;
 	font-weight: 600;
 	font-size: 18px;
@@ -240,6 +239,7 @@ button {
 	background-color: #000000;
 	margin-top: 40px;
 	color: white;
+	font-family: 'Lato', sans-serif;
 	font-style: normal;
 	font-weight: 600;
 	font-size: 18px;
@@ -289,6 +289,7 @@ button {
 	margin: 0px 8px;
 	border-radius: 36px;
 	border-style: none;
+	font-family: 'Lato', sans-serif;
 	font-style: normal;
 	font-weight: 600;
 	font-size: 14px;
@@ -338,6 +339,7 @@ button {
 .prod-name p {
 	width: 311px;
 	height: 28px;
+	font-family: 'Lato', sans-serif;
 	font-weight: 700;
 	font-style: normal;
 	font-size: 20px;
@@ -549,6 +551,7 @@ button {
 }
 
 .new-launch p {
+	font-family: 'Lato', sans-serif;
 	font-style: normal;
 	font-weight: 600;
 	font-size: 14px;
